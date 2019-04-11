@@ -28,11 +28,22 @@
 .far, .fa-caret-square-right{
     padding-top: 1vh;
     padding-right: 2vh;
-    padding-left: 20%
 }
 
 .fas, .fa-clipboard{
     padding-top: 1vh;
     padding-right: 2vh;
-    padding-left: 20%
+}
+
+.start-contents{
+    text-align: center;
+    display: block;
+    left-margin: auto;
+    right-margin: auto;
+}
+
+.manage-contents{
+    text-align: center;
+    left-margin: auto;
+    right-margin: auto;
 }

@@ -12,6 +12,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .fa, .fas.fa-home{
@@ -28,9 +29,9 @@
 
 .fas.fa-sliders-h{
     padding-top: 1vh;
+    padding-left: 2vh;
     font-size: 2rem;
     color: ##31302C;
 }
-
 
 
