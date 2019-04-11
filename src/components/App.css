@@ -1,0 +1,23 @@
+.sidebar {
+    display: block;
+    background-color: #24231F;
+    height: 100vh;
+    width: 100vh;
+}
+
+.logo {
+    padding-top: 2vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    height: 20vh;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main {
+
+
+
+
+}
