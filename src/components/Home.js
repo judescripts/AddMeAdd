@@ -6,10 +6,16 @@ class Home extends React.Component {
   state = {};
   render() {
     return (
-      <Container>
-        <div className="start-button">Start your campaign</div>
+      <Container className="controls">
+        <div className="start-button">
+          <i className="far fa-caret-square-right" />
+          Start your campaign
+        </div>
         <div className="spacer" />
-        <div className="manage-button">Manage your campaigns</div>
+        <div className="manage-button">
+          <i className="fas fa-clipboard" />
+          Manage your campaigns
+        </div>
       </Container>
     );
   }

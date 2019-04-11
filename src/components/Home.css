@@ -1,17 +1,38 @@
-.start-button{
-
-    padding-top: 10vh;
-    font-size: 2rem;
-
+.controls{
+    width: 50%;
+    padding-top:20vh;
 }
 
 .spacer{
-    padding: 8vh;
+    padding: 4vh;
+}
+
+.start-button{
+    font-size: 2rem;
+    font-family:"Source Sans Pro", "Sans-Serif";
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #808080;
+    height: 7vh;
 }
 
 .manage-button{
-
     font-size: 2rem;
+    font-family:"Source Sans Pro", "Sans-Serif";
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #808080;
+    height: 7vh;
+}
 
+.far, .fa-caret-square-right{
+    padding-top: 1vh;
+    padding-right: 2vh;
+    padding-left: 20%
+}
 
+.fas, .fa-clipboard{
+    padding-top: 1vh;
+    padding-right: 2vh;
+    padding-left: 20%
 }

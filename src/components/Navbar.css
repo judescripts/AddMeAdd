@@ -1,7 +1,36 @@
-.fas .fa-home{
-
-    width: auto;
-    height: 200px;
-
-
+.navbar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #808080;
+    width: 50%;
 }
+
+.nav-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fa, .fas.fa-home{
+    padding-top: 1vh;
+    font-size: 2rem;
+    color: ##31302C;
+}
+
+.fa, .fa-dice{
+    padding-top: 1vh;
+    font-size: 2rem;
+    color: ##31302C;
+}
+
+.fas.fa-sliders-h{
+    padding-top: 1vh;
+    font-size: 2rem;
+    color: ##31302C;
+}
+
+
+
