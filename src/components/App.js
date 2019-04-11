@@ -16,11 +16,11 @@ class App extends React.Component {
   render() {
     return (
       <Row>
-        <Col className="sidebar">
+        <Col xs={3} md={3} lg={3} className="sidebar">
           <img alt="+ME+" className="logo" src={Logo} />
           <Sidebar />
         </Col>
-        <Col xs={7} md={8} lg={9}>
+        <Col xs={9} md={9} lg={9}>
           <Navbar className="navbar" />
           <Router className="main">
             <Switch>

@@ -19,24 +19,26 @@
 #meta-box .content {
     color: #808080;
     padding-top: 1vh;
-    font-size: .80rem;
+    font-size: 1.5rem;
     font-family: 'Dokdo', cursive;
 }
 
 #meta-box .city-img {
-    display: block;
-    width: 40vh;
-    height: 40vh;
+    display: flex;
+    max-width: 100%;
+    width: auto\9;
+    height: auto;
     border-color: transparent;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
 }
 
 #meta-box .header {
     color: #ffffff;
     font-family: 'Oswald', sans-serif;
-    opacity: 1;
+    font-size: 2rem;
     border-top-style: solid;
     border-top-width: 1.5px;    
     border-top-color: black;
@@ -49,7 +51,7 @@
 #meta-box .meta-goals .left{
     color: #808080;
     padding-top: 1vh;
-    font-size: .65rem;
+    font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold; 
 }
@@ -57,8 +59,8 @@
 #meta-box .meta-goals .right{
     color: #808080;
     padding-top: 1vh;
-    padding-left: 3vh;
-    font-size: .65rem;
+    padding-left: 10vh;
+    font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold; 
     text-align: right;
