@@ -1,9 +1,0 @@
-import React from "react";
-
-class CampaignForm extends React.Component {
-  state = {};
-  render() {
-    return <div>CampaignForm!</div>;
-  }
-}
-export default CampaignForm;

@@ -18,20 +18,39 @@
 .fa, .fas.fa-home{
     padding-top: 1vh;
     font-size: 2rem;
-    color: ##31302C;
+    color: #31302C;
+}
+
+.fa, .fas.fa-home:hover{
+    padding-top: 1vh;
+    font-size: 2rem;
+    color: #190916;
 }
 
 .fa, .fa-dice{
     padding-top: 1vh;
     font-size: 2rem;
-    color: ##31302C;
+    color: #31302C;
+}
+
+.fa, .fa-dice:hover{
+    padding-top: 1vh;
+    font-size: 2rem;
+    color: #190916;
 }
 
 .fas.fa-sliders-h{
     padding-top: 1vh;
     padding-left: 2vh;
     font-size: 2rem;
-    color: ##31302C;
+    color: #31302C;
+}
+
+.fas.fa-sliders-h:hover{
+    padding-top: 1vh;
+    padding-left: 2vh;
+    font-size: 2rem;
+    color: #190916;
 }
 
 

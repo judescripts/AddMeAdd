@@ -8,21 +8,29 @@
 }
 
 .start-button{
+    justify-content: center;
+    align-items: center;
     font-size: 2rem;
     font-family:"Source Sans Pro", "Sans-Serif";
     border-style: solid;
     border-radius: 20px;
     border-color: #808080;
     height: 7vh;
+    width: 100vh;
+    background-color: #190916;
 }
 
 .manage-button{
+    justify-content: center;
+    align-items: center;
     font-size: 2rem;
     font-family:"Source Sans Pro", "Sans-Serif";
     border-style: solid;
     border-radius: 20px;
     border-color: #808080;
     height: 7vh;
+    width: 100vh;
+    background-color: #190916;
 }
 
 .far, .fa-caret-square-right{
